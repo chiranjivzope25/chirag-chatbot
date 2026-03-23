@@ -1,6 +1,13 @@
 # 🤖 Chirag Chatbot
 
+
+
 An AI-powered chatbot built using FastAPI, Streamlit, and HuggingFace Transformers (GPT-2).
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
