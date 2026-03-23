@@ -51,4 +51,4 @@ cd chirag-chatbot
 ## 📸 Demo
 
 ![Chatbot UI](https://github.com/chiranjivzope25/chirag-chatbot/blob/main/Screenshot%202026-03-23%20183703.png)
-![Chat History](your-image-name2.png)
+![Chat History]([your-image-name2.png](https://github.com/chiranjivzope25/chirag-chatbot/blob/main/Screenshot%202026-03-23%20184526.png))
