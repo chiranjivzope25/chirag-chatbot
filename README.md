@@ -48,3 +48,7 @@ cd chirag-chatbot
 git clone https://github.com/chiranjivzope25/chirag-chatbot.git
 cd chirag-chatbot
 ```
+## 📸 Demo
+
+![Chatbot UI](https://github.com/chiranjivzope25/chirag-chatbot/blob/main/Screenshot%202026-03-23%20183703.png)
+![Chat History](your-image-name2.png)
